@@ -9,7 +9,8 @@ I very much enjoy front end development and hope to have a career in it one day!
 ## I love my dog more than life itself
 ![Toby](toby.jpg)
 
-He is two years old and is a major dope
+### He is two years old and is a major dope
+And yes, he sits like this regularly
 
 <!--
 **hlkirkness/hlkirkness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
