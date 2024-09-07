@@ -8,6 +8,7 @@ I very much enjoy front end development and hope to have a career in it one day!
 
 ## I love my dog more than life itself
 ![Toby](toby.jpg)
+
 He is a major dope
 
 <!--
